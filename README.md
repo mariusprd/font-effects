@@ -100,11 +100,6 @@ Generated fonts were compared against Adobe Express Text Effects. While some res
 
 ---
 
-## **License**
-This project is released under the MIT License. Feel free to use and modify the code for your own purposes.
-
----
-
 ## **Acknowledgments**
 - Adobe Express for inspiring the project.
 - [Stable Diffusion](https://stability.ai/) for the inpainting models used.
