@@ -16,14 +16,14 @@ Here are some examples of generated font effects:
 
 ### Generated Fonts (Single Letters)
 - Prompt: "Colorful stained glass"
-![Colorful stained glass](Images/results/colorful_stained_glass.png)
+![Colorful stained glass](images/results/colorful_stained_glass.png)
 
 - Prompt: "Red Golden Gate Bridge"
-![Red Golden Gate Bridge](Images/results/red_golden_gate_bridge.png)
+![Red Golden Gate Bridge](images/results/red_golden_gate_bridge.png)
 
 ### Generated Fonts (Words)
 - Prompt: "Cinema popcorn"
-![Cinema popcorn](Images/results/cinema_popcorn.png)
+![Cinema popcorn](images/results/cinema_popcorn.png)
 
 ---
 
@@ -36,7 +36,7 @@ Here are some examples of generated font effects:
 │   ├── Roboto
 │   ├── Roboto_Slab
 │   └── Vollkorn
-├── Images
+├── images
 │   ├── adobe_express_imgs
 │   └── results
 ├── README.md
