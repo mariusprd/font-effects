@@ -12,18 +12,20 @@ This project aims to create a tool for generating custom font effects using gene
 ---
 
 ## **Examples**
-Here are some examples of generated font effects:
-
-### Generated Fonts (Single Letters)
-- Prompt: "Colorful stained glass"
-![Colorful stained glass](images/results/colorful_stained_glass.png)
-
-- Prompt: "Red Golden Gate Bridge"
-![Red Golden Gate Bridge](images/results/red_golden_gate_bridge.png)
 
 ### Generated Fonts (Words)
-- Prompt: "Cinema popcorn"
-![Cinema popcorn](images/results/cinema_popcorn.png)
+- **Prompt: "Colorful rainbow splashed around"**
+  
+  ![Colorful rainbow splashed around](images/results/Colorful_rainbow_paints_splashed_around%20(3).png)
+
+### Generated Fonts (Single Letters)
+- **Prompt: "Colorful stained glass"**
+  
+  ![Colorful stained glass](images/results/colorful_stained_glass.png)
+
+- **Prompt: "Red Golden Gate Bridge"**
+  
+  ![Red Golden Gate Bridge](images/results/red_golden_gate_bridge.png)
 
 ---
 
@@ -31,14 +33,14 @@ Here are some examples of generated font effects:
 ```
 .
 ├── Fonts
-│   ├── DM_Serif_Display
-│   ├── Lilita_One
-│   ├── Roboto
-│   ├── Roboto_Slab
-│   └── Vollkorn
+│   ├── DM_Serif_Display
+│   ├── Lilita_One
+│   ├── Roboto
+│   ├── Roboto_Slab
+│   └── Vollkorn
 ├── images
-│   ├── adobe_express_imgs
-│   └── results
+│   ├── adobe_express_imgs
+│   └── results
 ├── README.md
 └── font_effects_notebook.ipynb
 ```
@@ -95,6 +97,11 @@ This project was designed to run in Google Colab. Follow these steps to use it:
 
 ## **Results Comparison**
 Generated fonts were compared against Adobe Express Text Effects. While some results are visually competitive, commercial tools often produce superior outcomes due to advanced engineering and resource availability.
+
+---
+
+## **License**
+This project is released under the MIT License. Feel free to use and modify the code for your own purposes.
 
 ---
 
